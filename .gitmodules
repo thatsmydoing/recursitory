@@ -1,0 +1,3 @@
+[submodule "recursitory"]
+	path = recursitory
+	url = git@github.com:thatsmydoing/recursitory.git
